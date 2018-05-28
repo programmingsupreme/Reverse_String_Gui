@@ -78,6 +78,9 @@ public class Reverse_String_GUI extends Applet implements ActionListener{
 		
 		if(e.getSource() == b) {
 			
+			//if(input.getText() == ) {
+//;
+		//	}
 			if(!changebuttoncolor) {
 			
 				b.setBackground(Color.decode("#0affe2"));
